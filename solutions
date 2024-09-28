@@ -1,0 +1,14 @@
+// if(tweetreplyInput.value){
+    //     tweetsData[0].replies.push({
+    //         handle: `@Scrimba`,
+    //         profilePic: `images/scrimbalogo.png`,
+    //         tweetText: tweetreplyInput.value
+    //     })
+    // }
+    // if(tweetTargetObj.replies === ""){
+    //     tweetTargetObj.replies.push({
+    //         handle: `@Scrimba`,
+    //         profilePic: `images/scrimbalogo.png`,
+    //         tweetText: tweetreplyInput.value
+    //     })
+    // }
